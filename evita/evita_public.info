@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'evita'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'auc_metric'
+time_budget =  1200
+feat_num =  3000
+target_num =     1
+label_num =     2
+train_num = 20000
+valid_num =  8000
+test_num = 14000
+has_categorical =     0
+has_missing =     0
+is_sparse =     1

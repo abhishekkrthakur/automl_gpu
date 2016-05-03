@@ -1,8 +1,13 @@
-evita/
-flora/
-yolanda/
-helena/
-res/
-tania/
+evita/*.data
+evita/*.solution
+flora/*.data
+flora/*.solution
+yolanda/*.data
+yolanda/*.solution
+helena/*.data
+helena/*.solution
+res/*.csv
+tania/*.data
+tania/*.solution
 *.pyc
 

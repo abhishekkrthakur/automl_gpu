@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'helena'
+task = 'multiclass.classification'
+target_type = 'Categorical'
+feat_type = 'Numerical'
+metric = 'bac_metric'
+time_budget =  1200
+feat_num =    27
+target_num =   100
+label_num =   100
+train_num = 65196
+valid_num =  9314
+test_num = 18628
+has_categorical =     0
+has_missing =     0
+is_sparse =     0
